@@ -1,0 +1,22 @@
+þÿÿÿÝ###id###VisulizationRootBrowsableId###TargetIdNameText.0Text.1Text.2
+AlarmClass-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsDisplayName###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAuthorFamilyUser-defined IDInstance DBNameInFunctionalViewNameInDBFullNameInDBCommentDatatypeAddressValueAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomainStationNamePartnerNameNodeNameAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextCommonAlarmClass	CycleUnit	CycleTimeNumber	ShortName
+LogoutTime	BackColor	GridColorAboveUpperLimitColorBackFillStyleBelowLowerLimitColor
+BlinkColorFillColorModeFlashingFlip	ForeColorLayerRotationUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromToBorderBackColorBorderColor	EdgeStyleFontHorizontalAlignmentTextTextOrientationVerticalAlignment
+DataFormatFormatPatternModeUnitPropertyNameTagValueForPropertyTagPageAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientation
+ScaleColorScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorCaptionColorCaptionFontCaptionTextFirstGradientColor
+FocusColorHelpTextHorizontalPictureAlignmentInnerBackColorOffInnerBackColorOnMiddleGradientColorPictureAutoSizingSecondGradientColorSwitchOrientationTextOffTextOnVerticalPictureAlignment	FunctionsDataTypeTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValue
+LineColor1
+LineColor2OperatableAreaColor
+Visibility###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreColor	FillStyleLineEndShapeStyle
+StartStyleStyleEndStyleButtonBackColorButtonBackFillStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorGridlineAxisGridlineColorGridlineFillColorGridlineStyle
+RulerColorTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableGridlineColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorTimeAxisModeTimeAxisSidePreCodeHeaderCodeFooterJobEventAlarmSourceButtonBarStyleColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextSelectionBackColorSelectionForeColorSortByTimeDirectionViewTypeDelayTimeUnitHysteresisMode	LimitMode
+LimitValue	AlarmText
+TriggerTagBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption
+LabelColorPositionFontThumbBackColor	TickStyleAdaptPicture
+AutoSizingTransparentColorPicture
